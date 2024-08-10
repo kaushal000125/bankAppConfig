@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Kaushal's accounts related prod APIs "
   contactDetails:
     name: "Kunal - Product Owner"
-    email: "kunal@gmail.com"
+    email: "{cipher}33284ccb2e204c2ab3933aa9bde7bced3074a0ef4fdc1d480c1b6b6e2c272d04"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
