@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Kaushal's accounts related to prod APIs "
+  message: "Welcome to Kaushal's accounts related to docker APIs "
   contactDetails:
     name: "Kunal - Product Owner"
     email: "{cipher}33284ccb2e204c2ab3933aa9bde7bced3074a0ef4fdc1d480c1b6b6e2c272d04"
