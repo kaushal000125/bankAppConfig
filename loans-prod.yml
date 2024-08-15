@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Kaushal loans related prod APIs "
+  message: "Welcome to Kaushal loans related docker APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@gmail.com"
